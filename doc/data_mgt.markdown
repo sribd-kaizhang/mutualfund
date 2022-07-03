@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: 数据管理
-permalink: /data_mgt/
 nav_order: 2
 ---
 

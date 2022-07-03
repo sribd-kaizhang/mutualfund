@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: 基金业绩评估
-permalink: /fund_analyzer/
 nav_order: 4
 ---
 

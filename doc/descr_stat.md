@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: 行业发展研究
-permalink: /descr_stat/
 nav_order: 3
 ---
 
