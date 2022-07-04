@@ -63,13 +63,10 @@ nav_order: 2
     存储基金收益序列文件的目录，支持绝对路径与相对路径。
 
 
-
 ## 股票数据
-
 {:.fs-7}
 
 ### 行情序列
-
 {:.fs-5.5}
 
 - 函数：`update_stock_monthly(stock_updated, months_updated, to_dir = '../data/stocks_monthly', filename)`
