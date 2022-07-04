@@ -21,16 +21,18 @@
 title: 政企大数据实验室
 email: kaizhang@sribd.cn
 description: Fund research in China.
-baseurl: /mutualfund # the subpath of your site, e.g. /blog
-url: sribd-kaizhang.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mutualfund" # the subpath of your site, e.g. /blog
+url: "https://sribd-kaizhang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  sribd-kaizhang
+
+permalink: pretty
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
 # theme: "just-the-docs"
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
