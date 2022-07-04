@@ -21,7 +21,7 @@ nav_order: 2
 
 * 函数：`update_fund_perf(fund_updated, fundtype_anytime_date, to_dir = '../data/basic_info', filename)`
 
-* 描述：通过_WindPy API_下载或更新基金基本信息，其中支持获取基金历史一级与二级投资类型。为便于后续分析基金行业发展，每年最后一个交易日的时点数据通常被下载并存储于以其日期结尾的表格文件，如`filename  = 'fund_basic_info_20211231'`。
+* 描述：通过WindPy API下载或更新基金基本信息，其中支持获取基金历史一级与二级投资类型。为便于后续分析基金行业发展，每年最后一个交易日的时点数据通常被下载并存储于以其日期结尾的表格文件，如`filename  = 'fund_basic_info_20211231'`。
 
 * 参数：
 
