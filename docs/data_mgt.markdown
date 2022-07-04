@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: 数据管理
 nav_order: 2
 ---
