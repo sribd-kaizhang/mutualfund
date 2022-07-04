@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 基金业绩评估
 nav_order: 4
 ---

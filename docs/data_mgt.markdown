@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 数据管理
 nav_order: 2
 ---

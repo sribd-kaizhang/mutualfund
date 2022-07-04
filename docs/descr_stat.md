@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 行业发展研究
 nav_order: 3
 ---
